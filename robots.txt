@@ -1,1 +1,3 @@
-
+User-agent: *
+Allow: /
+Sitemap: https://hernan-ferreira996.github.io/desatec.github.io/sitemap.xml
